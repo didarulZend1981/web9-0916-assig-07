@@ -1,0 +1,56 @@
+[
+  {
+    "Recipe_image": "https://i.ibb.co/tCvwXNP/1.jpg",
+    "recipe_id": "1",
+    "Recipe_name": "Classic Spaghetti Bolognese",
+    "Short_description": "A classic Italian pasta dish with rich tomato sauce and ground beef.",
+    "Ingredients": ["spaghetti noodles", "ground beef", "tomato sauce", "diced onion", "minced garlic", "extra virgin olive oil"],
+    "Preparing_time": 30,
+    "Calories": 450
+  },
+  {
+    "Recipe_image": "https://i.ibb.co/d6BCkTT/2.jpg",
+    "recipe_id": "2",
+    "Recipe_name": "Grilled Salmon with Asparagus",
+    "Short_description": "Healthy and delicious grilled salmon served with tender asparagus spears.",
+    "Ingredients": ["salmon fillets", "fresh asparagus", "lemon slices", "olive oil", "sea salt", "ground black pepper"],
+    "Preparing_time": 25,
+    "Calories": 380
+  },
+  {
+    "Recipe_image": "https://i.ibb.co/cvd154w/3.jpg",
+    "recipe_id": "3",
+    "Recipe_name": "Vegetable Stir Fry",
+    "Short_description": "Quick and easy stir-fried vegetables with a savory sauce.",
+    "Ingredients": ["sliced bell peppers", "broccoli florets", "carrot strips", "snow peas", "low-sodium soy sauce", "toasted sesame oil"],
+    "Preparing_time": 20,
+    "Calories": 220
+  },
+  {
+    "Recipe_image": "https://i.ibb.co/Nx7r610/4.jpg",
+    "recipe_id": "4",
+    "Recipe_name": "Chicken Caesar Salad",
+    "Short_description": "A classic salad featuring grilled chicken, crisp romaine lettuce, and Caesar dressing.",
+    "Ingredients": ["grilled chicken breast", "crisp romaine lettuce", "shaved Parmesan cheese", "homemade croutons", "Caesar dressing", "fresh lemon juice"],
+    "Preparing_time": 15,
+    "Calories": 320
+  },
+  {
+    "Recipe_image": "https://i.ibb.co/q0HQP2R/5.jpg",
+    "recipe_id": "5",
+    "Recipe_name": "Mushroom Risotto",
+    "Short_description": "Creamy Italian risotto made with Arborio rice and flavorful mushrooms.",
+    "Ingredients": ["Arborio rice", "assorted mushrooms", "chicken broth", "dry white wine", "finely chopped shallots", "freshly grated Parmesan cheese"],
+    "Preparing_time": 35,
+    "Calories": 400
+  },
+  {
+    "Recipe_image": "https://i.ibb.co/ChGjPCR/6.jpg",
+    "recipe_id": "6",
+    "Recipe_name": "Banana Walnut Bread",
+    "Short_description": "Moist and delicious banana bread with crunchy walnuts.",
+    "Ingredients": ["ripe mashed bananas", "all-purpose flour", "chopped walnuts", "large eggs", "unsalted butter", "granulated sugar"],
+    "Preparing_time": 60,
+    "Calories": 280
+  }
+]
